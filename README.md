@@ -1,4 +1,4 @@
-# pygame-asteroids
+# Asteroids Game
 
 Asteroid game built using Python's pygame library!
 ![image](https://github.com/user-attachments/assets/8a6f6dfe-9302-4f2a-a58d-3644040abc6b)
