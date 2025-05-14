@@ -43,7 +43,6 @@ def main():
                     asteroid.split()
                     break
 
-        print("shots", shots)
         screen.fill("black")
 
         for dr in drawables:
